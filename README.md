@@ -46,6 +46,6 @@ I'm a student at Universitas Siber Asia. I created Mini Notes application as a p
    You can easily edit your file by follow the point number 3, edit text in your file and click Write Into File button.
 6. Get your words count
 
-  The number of words will automatically appear when we write text in the large text box, and when we read text from certain files.
+    The number of words will automatically appear when we write text in the large text box, and when we read text from certain files.
 ## Creator
 Josi Kie N.
